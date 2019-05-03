@@ -1,8 +1,9 @@
 1. There is 1 python file in this folder - ARIMA.py
 2. There is 1 test file in this folder - River_Flow.csv. It is on this file that ARIMA analysis is performed.
-3. This code does the AR. MA part is skipped as it is outside the scope of project.
-4. The file could be run as:  python ARIMA.py
-5. Apart from plots, it also outputs various values on console.
+3. There is 1 jupyter notebook - ARIMA.ipynb, which runs directly on browser.
+4. This code does the AR. MA part is skipped as it is outside the scope of project.
+5. The file could be run as:  python ARIMA.py
+6. Apart from plots, it also outputs various values on console.
 
 
 
